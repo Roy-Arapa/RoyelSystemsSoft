@@ -1,0 +1,7 @@
+D:\Proyectos C#\RoyelSystemsSoft\RoyelGit\RoyelGit\bin\Debug\RoyelGit.exe
+D:\Proyectos C#\RoyelSystemsSoft\RoyelGit\RoyelGit\bin\Debug\RoyelGit.pdb
+D:\Proyectos C#\RoyelSystemsSoft\RoyelGit\RoyelGit\obj\x86\Debug\RoyelGit.Form1.resources
+D:\Proyectos C#\RoyelSystemsSoft\RoyelGit\RoyelGit\obj\x86\Debug\RoyelGit.Properties.Resources.resources
+D:\Proyectos C#\RoyelSystemsSoft\RoyelGit\RoyelGit\obj\x86\Debug\RoyelGit.csproj.GenerateResource.Cache
+D:\Proyectos C#\RoyelSystemsSoft\RoyelGit\RoyelGit\obj\x86\Debug\RoyelGit.exe
+D:\Proyectos C#\RoyelSystemsSoft\RoyelGit\RoyelGit\obj\x86\Debug\RoyelGit.pdb
